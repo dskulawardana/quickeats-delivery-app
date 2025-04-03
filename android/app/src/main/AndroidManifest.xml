@@ -8,7 +8,7 @@
 
    <application
 
-       android:label="FoodBank Delivery"
+       android:label="Quickeats Delivery"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
