@@ -8,7 +8,7 @@
 
    <application
 
-       android:label="Quickeats Delivery"
+       android:label="QE Delivery"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
@@ -55,6 +55,6 @@
             android:name="flutterEmbedding"
             android:value="2" />
        <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyBpl-_4UOIW-riBkH2rXpH-8DzdXkacEJo"/>
+           android:value="AIzaSyCOHUsge8FJWeCleEV1onvD_mJxGTQAWVM"/>
    </application>
 </manifest>
