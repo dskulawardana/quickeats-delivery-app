@@ -1,5 +1,5 @@
 class APIList {
-  static String? server = "https://demo.food-bank.xyz/api/v1/";
+  static String? server = "https://quickeats.lk/api/v1/";
   static String? device = "device";
   static String? login = "login";
   static String? register = "reg";
